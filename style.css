@@ -1,0 +1,17 @@
+body {
+  background-color: red;
+  color: silver;
+  font-size: xx-large;
+}
+h1 {
+  color: green;
+}
+.main-header {
+  color: white;
+}
+#id {
+  color: purple;
+}
+.background {
+  background-image: url(img/);
+}
