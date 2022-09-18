@@ -5,37 +5,57 @@ body {
   color: black;
   font-size: xx-large;
 }
+
 h1 {
-  color:purple;
+  color: purple;
+  background-color: aliceblue;
 
   text-align: center;
 }
+
 .main-header {
   color: white;
 }
+
 #id {
   color: purple;
 }
+
 .background {
   background-image: url(img/);
 }
-h2 {text-align: left
 
+h2 {
+  text-align: left
 }
+
 .aboogie {
   text-decoration-style: solid;
   color: darkblue;
-  margin-left: 2cm;}
+  margin-left: 2cm;
+ font-size: smaller;
+}
 
 .graduation {
-text-align: center;
+  text-align: center;
 
 }
 
-.graduationimg{
-width: 400px;
+.graduationimg {
+  width: 400px;
 
 }
+
+.aboogieimg {width: 400px;
+
+
+}
+
+
+
+
+
+
 
 
 
