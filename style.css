@@ -37,8 +37,9 @@ h2 {
 }
 
 .graduation {
-  text-align: center;
-
+margin-left: 2cm;
+  color: darkmagenta;
+font-size: smaller;
 }
 
 .graduationimg {
@@ -47,10 +48,18 @@ h2 {
 }
 
 .aboogieimg {width: 400px;
-
-
 }
 
+.thestranger{
+margin-left: 2cm;
+font-size: smaller;
+}
+.strangerimg{
+width: 400px;
+}
+.kanye{
+
+}
 
 
 
