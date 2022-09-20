@@ -33,40 +33,41 @@ h2 {
   text-decoration-style: solid;
   color: darkblue;
   margin-left: 2cm;
- font-size: smaller;
+  font-size: smaller;
+  background-color: aliceblue;
+  width: 20%;
+  padding: .3cm;
 }
 
 .graduation {
-margin-left: 2cm;
+  margin-left: 2cm;
   color: darkmagenta;
-font-size: smaller;
+  font-size: smaller;
+  background-color: aliceblue;
+  width: 14%;
+  padding: .3cm;
 }
 
 .graduationimg {
   width: 400px;
-
 }
 
-.aboogieimg {width: 400px;
+.aboogieimg {
+  width: 400px;
 }
 
-.thestranger{
-margin-left: 2cm;
-font-size: smaller;
-}
-.strangerimg{
-width: 400px;
-}
-.kanye{
-
+.thestranger {
+  margin-left: 2cm;
+  font-size: smaller;
+  background-color: aliceblue;
+  width: 14%;
+  padding: .3cm;
 }
 
+.strangerimg {
+  width: 400px;
+}
 
-
-
-
-
-
-
-
-
+img {
+  margin-left: .5cm;
+}
