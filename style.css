@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: purple;
+  color: grey;
   background-color: aliceblue;
 
   text-align: center;
@@ -27,30 +27,36 @@ font-style: bold;
 }
 
 h2 {
-  text-align: left
+  text-align: center
 
 }
 h2{
 font-style: bold;
 
 }
+.post{
+  width: 30vw;
+  margin: 30px auto;
+background-color:lightgray;
+  padding:20px;
+  text-align: center;
+ 
+}
 .aboogie {
   text-decoration-style: solid;
   color: darkblue;
-  margin-left: 2cm;
+  
   font-size: smaller;
   background-color: aliceblue;
-  width: 20%;
-  padding: .3cm;
+
 }
 
 .graduation {
-  margin-left: 2cm;
+
   color: darkmagenta;
-  font-size: smaller;
+
   background-color: aliceblue;
-  width: 14%;
-  padding: .3cm;
+
 }
 
 .graduationimg {
@@ -62,11 +68,9 @@ font-style: bold;
 }
 
 .thestranger {
-  margin-left: 2cm;
-  font-size: smaller;
+
   background-color: aliceblue;
-  width: 14%;
-  padding: .3cm;
+ 
 }
 
 .strangerimg {
