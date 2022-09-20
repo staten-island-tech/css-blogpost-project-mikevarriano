@@ -11,6 +11,7 @@ h1 {
   background-color: aliceblue;
 
   text-align: center;
+font-style: bold;
 }
 
 .main-header {
@@ -27,8 +28,12 @@ h1 {
 
 h2 {
   text-align: left
-}
 
+}
+h2{
+font-style: bold;
+
+}
 .aboogie {
   text-decoration-style: solid;
   color: darkblue;
@@ -70,4 +75,8 @@ h2 {
 
 img {
   margin-left: .5cm;
+}
+p{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-left: .5cm
 }
